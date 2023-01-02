@@ -1,6 +1,7 @@
 package com.TestCases;
 
 import org.testng.annotations.Test;
+
 import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.annotations.Test;
 import com.PageObjects.inventoryMasterListPageObjects;
