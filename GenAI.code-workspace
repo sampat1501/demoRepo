@@ -95,7 +95,9 @@
     "terminal.integrated.defaultLocation": "editor",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "files.eol": "\n",
-    "files.encoding": "utf8"
+    "files.encoding": "utf8",
+    "editor.defaultFormatter": "GitHub.copilot-chat",
+    "editor.defaultFoldingRangeProvider": "GitHub.copilot-chat"
   },
   "extensions": {
     "recommendations": [

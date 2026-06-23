@@ -1,8 +1,8 @@
 # Account Report
 
 ## Git user information
-- Git user name: no-name
-- Git user email: no-email
+- Git user name: sampat1501
+- Git user email: bsampat0505@gmail.com
 
 ## Python environment
 - Python version: 3.13.9
