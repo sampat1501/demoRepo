@@ -13,5 +13,12 @@
         "Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned; $env:PATHEXT += ';.PY'; Set-Location 'd:\\GenAI'; & 'd:\\GenAI\\.venv\\Scripts\\Activate.ps1'"
       ]
     }
-  }
+  },
+  "python-envs.pythonProjects": [
+    {
+      "path": ".",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
 }
