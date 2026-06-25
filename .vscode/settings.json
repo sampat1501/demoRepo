@@ -8,9 +8,7 @@
       "args": [
         "-ExecutionPolicy",
         "RemoteSigned",
-        "-NoExit",
-        "-Command",
-        "Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned; $env:PATHEXT += ';.PY'; Set-Location 'd:\\GenAI'; & 'd:\\GenAI\\.venv\\Scripts\\Activate.ps1'"
+        "-NoExit"
       ]
     }
   },
